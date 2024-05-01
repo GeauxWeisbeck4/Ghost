@@ -2092,10 +2092,10 @@
     got "9.6.0"
     lodash "^4.17.21"
 
-"@tryghost/root-utils@0.3.15", "@tryghost/root-utils@^0.3.15":
-  version "0.3.15"
-  resolved "https://registry.yarnpkg.com/@tryghost/root-utils/-/root-utils-0.3.15.tgz#0b7fd9e02360b81cf46d07b1b87d1e94e9bf6585"
-  integrity sha512-HgSdyvg1CVXZBIdrJh5RMp14VQhJWFBozs1SCjomWew400ERDsUIHamwlzKxqfGZgc1P4Sp1jinkOb+dVanruw==
+"@tryghost/root-utils@0.3.27", "@tryghost/root-utils@^0.3.15":
+  version "0.3.27"
+  resolved "https://registry.yarnpkg.com/@tryghost/root-utils/-/root-utils-0.3.27.tgz#cebafd33089368329298c41a92900936a963617d"
+  integrity sha512-JmvnJG5+g6Tq70VTfCWb8md4viISSDcGDJ7JI0tv1v516GO00tzvc45Uv/idoTHYtjsyyBXhhOd8Iq1l2skW1Q==
   dependencies:
     caller "^1.0.1"
     find-root "^1.1.0"
