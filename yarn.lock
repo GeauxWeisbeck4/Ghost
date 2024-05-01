@@ -1752,12 +1752,12 @@
     lodash "^4.17.21"
     luxon "^2.1.1"
 
-"@tryghost/kg-markdown-html-renderer@5.1.5", "@tryghost/kg-markdown-html-renderer@^5.1.5":
-  version "5.1.5"
-  resolved "https://registry.yarnpkg.com/@tryghost/kg-markdown-html-renderer/-/kg-markdown-html-renderer-5.1.5.tgz#9a6e34fc445bf47fd6baad1cb3c323abc3c04fa5"
-  integrity sha512-IsGkfIM04H67PdboxtUSLtMeyTEErUBgYMmk2o3DFsxap9y7wf8a3pADusjhphp1Gz8DwCdVKanUe8MCOb6udQ==
+"@tryghost/kg-markdown-html-renderer@5.1.11", "@tryghost/kg-markdown-html-renderer@^5.1.5":
+  version "5.1.11"
+  resolved "https://registry.yarnpkg.com/@tryghost/kg-markdown-html-renderer/-/kg-markdown-html-renderer-5.1.11.tgz#c0aa728bc2ec518cefa69353211bdb866f70090d"
+  integrity sha512-mMQmQbO5/l5vVfiKiqlq0Y81wPX83AdSXPEq5GcAklq8E9q1ITpVtIZKC0KGrnQNiuledGOTP6wf2t5tyjgTLg==
   dependencies:
-    "@tryghost/kg-utils" "^1.0.2"
+    "@tryghost/kg-utils" "^1.0.8"
     markdown-it "^12.2.0"
     markdown-it-footnote "^3.0.3"
     markdown-it-image-lazy-loading "^1.1.0"
@@ -1781,10 +1781,10 @@
   dependencies:
     "@tryghost/kg-clean-basic-html" "^2.2.10"
 
-"@tryghost/kg-utils@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@tryghost/kg-utils/-/kg-utils-1.0.2.tgz#f5d4dcec33091e865455890883f1dbaf3a746f12"
-  integrity sha512-Iq6GAfjWb3p8jX4jHbTF9tM4g1IhKuX8pWSlHa7znmgkjBTIIIVLqYPfsHfdUDRDOCnR52qJFyW92A8tzF7zzw==
+"@tryghost/kg-utils@^1.0.2", "@tryghost/kg-utils@^1.0.8":
+  version "1.0.24"
+  resolved "https://registry.yarnpkg.com/@tryghost/kg-utils/-/kg-utils-1.0.24.tgz#4ef358ef803272cbe257993b9f79ea0a6b432077"
+  integrity sha512-+GpfZOsvJkli1Nt0rDl5+hIFVikbieavkBZKjrSMIMO75Jm+BJvWqEppHD+qtfjhF9biZqoYXkGZnOjcJU+4eg==
   dependencies:
     semver "^7.3.5"
 
