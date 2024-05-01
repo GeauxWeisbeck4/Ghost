@@ -2092,10 +2092,18 @@
     got "9.6.0"
     lodash "^4.17.21"
 
-"@tryghost/root-utils@0.3.15", "@tryghost/root-utils@^0.3.15":
+"@tryghost/root-utils@0.3.15":
   version "0.3.15"
   resolved "https://registry.yarnpkg.com/@tryghost/root-utils/-/root-utils-0.3.15.tgz#0b7fd9e02360b81cf46d07b1b87d1e94e9bf6585"
   integrity sha512-HgSdyvg1CVXZBIdrJh5RMp14VQhJWFBozs1SCjomWew400ERDsUIHamwlzKxqfGZgc1P4Sp1jinkOb+dVanruw==
+  dependencies:
+    caller "^1.0.1"
+    find-root "^1.1.0"
+
+"@tryghost/root-utils@^0.3.15", "@tryghost/root-utils@^0.3.27":
+  version "0.3.27"
+  resolved "https://registry.yarnpkg.com/@tryghost/root-utils/-/root-utils-0.3.27.tgz#cebafd33089368329298c41a92900936a963617d"
+  integrity sha512-JmvnJG5+g6Tq70VTfCWb8md4viISSDcGDJ7JI0tv1v516GO00tzvc45Uv/idoTHYtjsyyBXhhOd8Iq1l2skW1Q==
   dependencies:
     caller "^1.0.1"
     find-root "^1.1.0"
@@ -2220,12 +2228,12 @@
   resolved "https://registry.yarnpkg.com/@tryghost/version-notifications-data-service/-/version-notifications-data-service-0.2.1.tgz#6ac1ab7af87ed069a376ac57532d9347ded4caaf"
   integrity sha512-szYs674FfaNR6yFyITYfN5nxJctikkPlvvPHobwTs8Xl/2Z9llFExNz0UW+xHb/KWubF56uUbOkgiXj24RApCA==
 
-"@tryghost/version@0.1.15", "@tryghost/version@^0.1.15":
-  version "0.1.15"
-  resolved "https://registry.yarnpkg.com/@tryghost/version/-/version-0.1.15.tgz#8e6138f9ce9f49e0f3f20b0fc4e20d83c948f2b4"
-  integrity sha512-mdhm3Se0HtUdZgNVgYNhuywDKFfSIrt3eiD3yXWBmb/XzQNU31lW5RESt+7ZulUMHZVTpEQi1SE+muCVnVfn1g==
+"@tryghost/version@0.1.27", "@tryghost/version@^0.1.15":
+  version "0.1.27"
+  resolved "https://registry.yarnpkg.com/@tryghost/version/-/version-0.1.27.tgz#0b4d31b5f2211e2ee119c0c9b8d678821365be19"
+  integrity sha512-uzIejsgSYoX36P4X5LlXxUIOHbrpPu/VSouwwrKcTL1DRM6b1sI+CkWWXVqBzgB0GzjmSGiiw18Y/iZIkgvgZw==
   dependencies:
-    "@tryghost/root-utils" "^0.3.15"
+    "@tryghost/root-utils" "^0.3.27"
     semver "^7.3.5"
 
 "@tryghost/vhost-middleware@1.0.26":
