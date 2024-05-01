@@ -2233,10 +2233,12 @@
   resolved "https://registry.yarnpkg.com/@tryghost/vhost-middleware/-/vhost-middleware-1.0.26.tgz#8e5fc668f47d3960af6295bf4275a37e7c4fc4e1"
   integrity sha512-7IYYeRLIzWS/Wl3PLSVDTpk08AB9SZbulh67buXdzjWXZCkFtWPPMB4BS3fCUuJCFDOfz6f92rfMkMu7Xji/TA==
 
-"@tryghost/webhook-mock-receiver@0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@tryghost/webhook-mock-receiver/-/webhook-mock-receiver-0.1.1.tgz#9a6aab1c215121eef486bddf3f90b7fe49367166"
-  integrity sha512-XlA6JcoINptCYz7yy4clAK9FfkCZHwKAqSZbRRXywKRA8KAocjheHq44HUVTWVGpZB1myBAiA77Iyhs8wla1/w==
+"@tryghost/webhook-mock-receiver@0.2.11":
+  version "0.2.11"
+  resolved "https://registry.yarnpkg.com/@tryghost/webhook-mock-receiver/-/webhook-mock-receiver-0.2.11.tgz#9b2e847681a4349e4230a9c2f5889a2878f6a5e9"
+  integrity sha512-QO2osSIsWHE75ihw7ODzIxQF1i9FvM0AHvQ9qFLbTzzktezoe2tQHDqU8dGbbfSdof2WVuYHl2zw1URgpryOuQ==
+  dependencies:
+    p-wait-for "3.2.0"
 
 "@tryghost/zip@1.1.26":
   version "1.1.26"
@@ -9316,7 +9318,7 @@ p-wait-for@3.1.0:
   dependencies:
     p-timeout "^3.0.0"
 
-p-wait-for@^3.2.0:
+p-wait-for@3.2.0, p-wait-for@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/p-wait-for/-/p-wait-for-3.2.0.tgz#640429bcabf3b0dd9f492c31539c5718cb6a3f1f"
   integrity sha512-wpgERjNkLrBiFmkMEjuZJEWKKDrNfHCKA1OhyN1wg1FrLkULbviEy6py1AyJUgZ72YWFbZ38FIpnqvVqAlDUwA==
