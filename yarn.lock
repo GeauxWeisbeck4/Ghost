@@ -2145,7 +2145,14 @@
   dependencies:
     moment "^2.29.3"
 
-"@tryghost/string@0.1.26", "@tryghost/string@^0.1.17", "@tryghost/string@^0.1.20":
+"@tryghost/string@0.2.12":
+  version "0.2.12"
+  resolved "https://registry.yarnpkg.com/@tryghost/string/-/string-0.2.12.tgz#fc0e06939e7b43922e2471135ed9af4f22ddcd54"
+  integrity sha512-1ygv+nOycupvFX/lwvRbThcGzwlMlwNXUUQn3HqWnKYZmDAA2FOP5SvlcY/BkOLzpPQUlBgSs3PvjOurCIZU7g==
+  dependencies:
+    unidecode "^0.1.8"
+
+"@tryghost/string@^0.1.17", "@tryghost/string@^0.1.20":
   version "0.1.26"
   resolved "https://registry.yarnpkg.com/@tryghost/string/-/string-0.1.26.tgz#f9f1ce40070234a2f0b452d282405be09e78f91b"
   integrity sha512-NZQ6EdSm373Q9JJwev552vjloqmV/G4vNe8GAlyJ1w+PCOniMZbmPWiadjsaD9lt6/lwzy4JlwTAp/v4hPRCpg==
