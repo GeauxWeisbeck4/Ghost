@@ -1577,6 +1577,11 @@
     "@tryghost/tpl" "^0.1.4"
     lodash "^4.17.21"
 
+"@tryghost/database-info@0.3.24":
+  version "0.3.24"
+  resolved "https://registry.yarnpkg.com/@tryghost/database-info/-/database-info-0.3.24.tgz#a7bc3519dd6c035aadd0e0c0dac03b55637390f5"
+  integrity sha512-V5IHVJSyC8wrby/5YtFa1ajQ4qB3wfqc+AwlemDAEH2pZ5n5ygdb2qayeo4kwWPK0xn2Vul5KiRQK0bX+OePdw==
+
 "@tryghost/database-info@0.3.7":
   version "0.3.7"
   resolved "https://registry.yarnpkg.com/@tryghost/database-info/-/database-info-0.3.7.tgz#370c4d43bdd349fb423ebd95c56ffda0dbc8da70"
