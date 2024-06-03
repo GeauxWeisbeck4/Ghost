@@ -1735,10 +1735,10 @@
   resolved "https://registry.yarnpkg.com/@tryghost/kg-clean-basic-html/-/kg-clean-basic-html-2.2.10.tgz#af51a7f7c1ba993b6975e0d2b59298c45480ed1c"
   integrity sha512-WHAtCOGO4ePSIDLi0u8oKquJPJalQbzOX4GkHD6ADH3cFirUK9JbVXfzaN96in9/58TE+YzPsw6aw0hHB/FUCw==
 
-"@tryghost/kg-default-atoms@3.1.2":
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/@tryghost/kg-default-atoms/-/kg-default-atoms-3.1.2.tgz#9b718301f3552189885cad081f093a673ff30088"
-  integrity sha512-DNbtExbmqp2lM8czRzEP2k84yU7BPHJC5oIGUBG707R7djPEh+vt2ZuEFWfmJNzKDWDU+cNoyzLf/Hds3xaDRw==
+"@tryghost/kg-default-atoms@5.0.3":
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/@tryghost/kg-default-atoms/-/kg-default-atoms-5.0.3.tgz#7d0e5af2191f2e0c61ae11d1666905bf924f67ac"
+  integrity sha512-uPE69rKxaiiMEa1vFsEbfX+LCBG2H5D/nqTkuIPAslEGIHYjQUruaXpBfnwtyVHn+dMLuWcO+wDJl5qET8gKEQ==
 
 "@tryghost/kg-default-cards@5.16.2":
   version "5.16.2"
