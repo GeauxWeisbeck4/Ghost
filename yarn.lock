@@ -2074,12 +2074,10 @@
     moment "^2.29.1"
     prettyjson "^1.2.5"
 
-"@tryghost/promise@0.1.19":
-  version "0.1.19"
-  resolved "https://registry.yarnpkg.com/@tryghost/promise/-/promise-0.1.19.tgz#ec24705f3e7ae8b0a78dd1ad68b6b0ff4fcc345c"
-  integrity sha512-RoNgiFpcgPx2oMuovGZGo4cMHBm3NXzS3rGwj6Yf4kRIhAsgbBHO1atOhMVdrxWJnckIFWTnhIOuG4vY/xRYgA==
-  dependencies:
-    bluebird "^3.7.2"
+"@tryghost/promise@0.3.10":
+  version "0.3.10"
+  resolved "https://registry.yarnpkg.com/@tryghost/promise/-/promise-0.3.10.tgz#a1025c37773e8294fd4cecee33af1ed0bc07bcce"
+  integrity sha512-0Cs3cdOViYPHlDcgFLOPX2xyWMbnHRHN773hvJ8KfFAeF0QmNF07dvjYvTmHkXd5Dy551UgRjtZR5eZqpqAO3A==
 
 "@tryghost/request@0.1.28", "@tryghost/request@^0.1.28":
   version "0.1.28"
