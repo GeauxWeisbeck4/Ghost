@@ -61,7 +61,7 @@
     "@tryghost/api-version-compatibility-service": "0.4.3",
     "@tryghost/bookshelf-plugins": "0.4.3",
     "@tryghost/bootstrap-socket": "0.2.21",
-    "@tryghost/color-utils": "0.1.19",
+    "@tryghost/color-utils": "0.2.2",
     "@tryghost/config-url-helpers": "1.0.1",
     "@tryghost/constants": "1.0.6",
     "@tryghost/custom-theme-settings-service": "0.3.3",
