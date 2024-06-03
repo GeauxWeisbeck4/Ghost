@@ -124,7 +124,7 @@
     "bookshelf": "1.2.0",
     "bookshelf-relations": "2.4.0",
     "brute-knex": "4.0.1",
-    "bson-objectid": "2.0.3",
+    "bson-objectid": "2.0.4",
     "bthreads": "0.5.1",
     "chalk": "4.1.2",
     "cheerio": "0.22.0",
