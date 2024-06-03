@@ -1542,11 +1542,12 @@
   dependencies:
     long-timeout "^0.1.1"
 
-"@tryghost/color-utils@0.1.19":
-  version "0.1.19"
-  resolved "https://registry.yarnpkg.com/@tryghost/color-utils/-/color-utils-0.1.19.tgz#37c5bd9d7576b7d9a0aefcc283fc23b286589aec"
-  integrity sha512-x9h76p0M1ma3KaRdzzk1zoD4a8JOhmTNAegrPSf57lN0D+VvPHUfbGO/9iWfmA9Jk4NcSEFPSl0cd1xZUWBAsA==
+"@tryghost/color-utils@0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@tryghost/color-utils/-/color-utils-0.2.2.tgz#29db40ec9c0a13cb6112e99ede558fb434d98903"
+  integrity sha512-/QuiczF/Ql811aw5zGf33nRRpIF1/9Ul/h8CVC0yfEk8oOELgKrtaOG8bK1uq5RHKot/U1AhmWKIE+9szpFVSw==
   dependencies:
+    "@types/color" "3.0.6"
     color "^3.2.1"
 
 "@tryghost/config-url-helpers@1.0.1":
@@ -2277,6 +2278,25 @@
     "@types/keyv" "*"
     "@types/node" "*"
     "@types/responselike" "*"
+
+"@types/color-convert@*":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@types/color-convert/-/color-convert-2.0.3.tgz#e93f5c991eda87a945058b47044f5f0008b0dce9"
+  integrity sha512-2Q6wzrNiuEvYxVQqhh7sXM2mhIhvZR/Paq4FdsQkOMgWsCIkKvSGj8Le1/XalulrmgOzPMqNa0ix+ePY4hTrfg==
+  dependencies:
+    "@types/color-name" "*"
+
+"@types/color-name@*":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.4.tgz#e002611ff627347818d440a05e81650e9a4053b8"
+  integrity sha512-hulKeREDdLFesGQjl96+4aoJSHY5b2GRjagzzcqCfIrWhe5vkCqIvrLbqzBaI1q94Vg8DNJZZqTR5ocdWmWclg==
+
+"@types/color@3.0.6":
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/@types/color/-/color-3.0.6.tgz#29c27a99d4de2975e1676712679a0bd7f646a3fb"
+  integrity sha512-NMiNcZFRUAiUUCCf7zkAelY8eV3aKqfbzyFQlXpPIEeoNDbsEHGpb854V3gzTsGKYj830I5zPuOwU/TP5/cW6A==
+  dependencies:
+    "@types/color-convert" "*"
 
 "@types/connect@*":
   version "3.4.35"
